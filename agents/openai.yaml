@@ -1,0 +1,6 @@
+interface:
+  display_name: "钱写不出爱"
+  short_description: >-
+    用 Reader State、Unbuyable Gap 与 Evidence 三层模型创作或审查
+    克制的中文第一人称叙事
+  default_prompt: "使用 $money-cant-write-love，把这段经历写成一篇克制的中文第一人称故事。"
